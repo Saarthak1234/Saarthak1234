@@ -1,6 +1,6 @@
 - 👋 Hi, I am Saarthak Agarwal
 - 👀 I’m interested in coding and learning new languages
-- 🌱 I’m currently learning C language
+- 🌱 Currently working on javascript and node js 
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 You can reach me through linkedIn (Saarthak Agarwal)
 
