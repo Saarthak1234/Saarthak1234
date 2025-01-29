@@ -49,7 +49,7 @@
 <br clear="both">
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/saarthak-agarwal-sa/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/saarthak-agarwal-sa/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/yourinstagram" target="_blank">
