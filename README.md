@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Hey, I'm Saarthak Agarwal, a MERN stack developer with experience in JavaScript, TypeScript, Next.js, and full-stack web development. I enjoy working on innovative projects and exploring new tech related stuff<br><br>Tech Stack & Skills  <br>- Frontend: React.js, Next.js, Tailwind CSS, ShadCN UI  <br>- Backend: Node.js, Express.js, MongoDB, Mongoose</p>
+<p align="left">Hey, I'm Saarthak Agarwal, a MERN stack developer with experience in JavaScript, TypeScript, Next.js, and full-stack web development. I enjoy working on innovative projects and exploring new tech related stuff<br>
 
 ###
 
