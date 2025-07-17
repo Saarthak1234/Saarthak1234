@@ -1,12 +1,16 @@
-<h1 align="left">Hello, geeks!</h1>
+<h1 align="left">Greetings, geeks!</h1>
+
+###
+
+<img align="right" height="162" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB0MW40azA2Z3kwem91ODg4bXp1MWIxM2F6eXQ0eWgzbWM3YWtkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"  />
+
+###
+
+<p align="left">Hey, I'm Saarthak Agarwal, a MERN stack developer with experience in JavaScript, TypeScript, Next.js, and full-stack web development. I enjoy working on innovative projects and exploring new tech related stuff<br><br>Tech Stack & Skills  <br>- Frontend: React.js, Next.js, Tailwind CSS, ShadCN UI  <br>- Backend: Node.js, Express.js, MongoDB, Mongoose</p>
 
 ###
 
 <br clear="both">
-
-<p align="left">Hey, I'm Saarthak Agarwal, a MERN stack developer with experience in JavaScript, TypeScript, Next.js, and full-stack web development. I enjoy working on innovative projects and exploring new tech related stuff<br>
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
@@ -42,6 +46,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
   <img width="8" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo"  />
 </div>
 
 ###
@@ -49,15 +59,17 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/saarthak-agarwal-sa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/saarthak..0408?igsh=NGF4ZzVybDJocGRy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:saarthakagarwal0408@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saarthak1234/Saarthak1234/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saarthak1234/Saarthak1234/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Saarthak1234/Saarthak1234/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
