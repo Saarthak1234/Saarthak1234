@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&size=50&duration=4500&pause=1000&color=0086F7&background=000000&center=true&vCenter=true&width=500&lines=Hello+there!+%F0%9F%91%8B+I'm+Saarthak+Agarwal%2C+a+passionate+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&size=100&duration=4500&pause=1000&color=0086F7&background=000000&center=true&vCenter=true&width=2000&height=500&lines=Hello+there!+%F0%9F%91%8B+I'm+Saarthak+Agarwal%2C+a+passionate+developer.)](https://git.io/typing-svg)
 <h1 align="left">Greetings, geeks!</h1>
 
 ###
