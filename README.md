@@ -138,7 +138,7 @@
 
 <br clear="both">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saarthak1234&bg_color=000000&color=950101&line=4d0000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
@@ -153,5 +153,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saarthak1234/Saarthak1234/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Saarthak1234/Saarthak1234/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saarthak1234&bg_color=000000&color=950101&line=4d0000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
