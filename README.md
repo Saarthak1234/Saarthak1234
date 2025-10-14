@@ -61,8 +61,12 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  <a href="https://linkedin.com/in/saarthak-agarwal" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:saarthakagarwal@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -75,3 +79,27 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Saarthak1234/Saarthak1234/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+
+### ⚡ GitHub Stats & Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saarthak1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saarthak1234&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saarthak1234&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Saarthak1234&theme=tokyonight&no-frame=true&margin-w=15&column=6)
+
+</div>
+
+---
