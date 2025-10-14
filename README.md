@@ -81,15 +81,25 @@
 
 ---
 
-### 💫 GitHub Summary
+### ⚡ GitHub Stats & Analytics
 
 <div align="center">
 
+<!-- Sleek Summary Card (like your attached image) -->
 ![Saarthak Agarwal's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saarthak1234&theme=tokyonight)
 
+<!-- Detailed Overview Card -->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saarthak1234&theme=tokyonight)
 
+<!-- GitHub Streak (DenverCoder1) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Saarthak1234&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6B81&currStreakLabel=04E9FF)
+
+<!-- Language Stats -->
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saarthak1234&theme=tokyonight)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saarthak1234&theme=tokyonight)
+
 </div>
+
 
 ---
 
