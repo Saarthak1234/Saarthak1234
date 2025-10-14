@@ -81,15 +81,13 @@
 
 ---
 
-### ⚡ GitHub Stats & Analytics
+### 💫 GitHub Summary
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saarthak1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Saarthak Agarwal's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saarthak1234&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saarthak1234&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saarthak1234&theme=tokyonight&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saarthak1234&theme=tokyonight)
 
 </div>
 
