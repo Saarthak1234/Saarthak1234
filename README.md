@@ -71,6 +71,16 @@
 
 ###
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saarthak1234&show_icons=true&theme=tokyonight" alt="Saarthak's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saarthak1234&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+###
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saarthak1234&bg_color=000000&color=950101&line=4d0000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
@@ -80,11 +90,5 @@
 </picture>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saarthak1234&show_icons=true&theme=tokyonight" alt="Saarthak's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saarthak1234&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
