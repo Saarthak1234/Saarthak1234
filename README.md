@@ -79,10 +79,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Saarthak1234/Saarthak1234/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-### 💫 GitHub Summary
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saarthak1234&show_icons=true&theme=tokyonight" alt="Saarthak's GitHub Stats" />
@@ -92,13 +88,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saarthak1234&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Saarthak1234&theme=tokyonight&no-frame=true&margin-w=15&column=6)
-
-</div>
-
----
