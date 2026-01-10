@@ -73,13 +73,13 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saarthak1234&bg_color=000000&color=950101&line=4d0000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saarthak1234&show_icons=true&theme=tokyonight" alt="Saarthak's GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saarthak1234&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saarthak1234/Saarthak1234/output/pacman-contribution-graph-dark.svg">
