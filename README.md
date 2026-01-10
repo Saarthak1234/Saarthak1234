@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=300&duration=4000&pause=2000&color=04E9FF&background=08080800&center=true&vCenter=true&width=5000&height=750&lines=Hey+there!+I'm+Saarthak+Agarwal.;Crafting+innovative+solutions.+%F0%9F%92%BB)](https://git.io/typing-svg)
 
+![Demo](https://raw.githubusercontent.com/USERNAME/REPO/main/optimized.gif)
+
 <h1 align="left">Greetings, geeks!</h1>
 
 ###
