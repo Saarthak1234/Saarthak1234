@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Saarthak1234/Saarthak1234/main/resized.gif" width="60%">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=300&duration=4000&pause=2000&color=04E9FF&background=08080800&center=true&vCenter=true&width=5000&height=750&lines=Hey+there!+I'm+Saarthak+Agarwal.;Crafting+innovative+solutions.+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 <h1 align="left">Greetings, geeks!</h1>
