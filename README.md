@@ -62,10 +62,10 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://linkedin.com/in/saarthak-agarwal" target="_blank">
+  <a href="www.linkedin.com/in/saarthak-agarwal-sa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:saarthakagarwal@gmail.com" target="_blank">
+  <a href="mailto:saarthakagarwal0408@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
 </div>
